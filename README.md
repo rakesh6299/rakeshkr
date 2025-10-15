@@ -1,6 +1,6 @@
 ![logo](https://github.com/roushanronny/roushanronny/blob/main/ronny1.png)
 
-<h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">Software Development Engineer | Full-Stack Developer </h3>
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1260/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
@@ -19,7 +19,7 @@ I have experience in **full-stack development (React, Node.js, .NET)**, cloud de
 
 - 💻 Skilled in **C++, Python, JavaScript, .NET, Node.js, React, Azure**  
 
-- 📫 Reach me at **roushankumarydv2003@gmail.com**  
+- 📫 Reach me at **rk1650620@gmail.com**  
 - 🌍 Based in Hyderabad, India  
 
 
