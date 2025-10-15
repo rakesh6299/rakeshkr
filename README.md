@@ -1,81 +1,110 @@
-<!-- Banner image: replace the URL with your own banner if you have one -->
+<!-- 🌟 GitHub Profile Banner -->
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/rakesh6299/rakesh6299/main/github-banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">Full-stack developer • problem solver • interview-ready</h3>
+<h3 align="center">💻 Full-Stack Developer | 🚀 Problem Solver | 🎯 Interview-Ready</h3>
 
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rakesh6299&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh6299" />
-</p>
+---
 
-- 👨‍💻 All of my code and projects are on my GitHub: [github.com/rakesh6299](https://github.com/rakesh6299)  
-- 🔭 Currently building: a MERN chat app & polishing other full-stack projects  
-- 🌱 I’m improving system design and interview-ready projects for placements  
-- ⚡ Fun fact: I prefer writing clean code that’s easy to explain in interviews 😄
+### 👨‍💼 About Me
+- 🎓 MCA Student at **NIT Trichy** (2022–2025)
+- 🔭 Currently building: **AI-powered Job Portal using MERN & ML**
+- 🌱 Learning: **System Design**, **Deep Learning**, and **Scalable Web Architecture**
+- 💡 Passionate about **clean code**, **problem-solving**, and **end-to-end project development**
+- 🏆 LeetCode **Knight (2000+ rating)** | Solved **1000+ DSA problems**
+- ⚡ Fun fact: I love turning complex logic into elegant, readable code 😄  
 
 ---
 
-### 🔗 Quick Links
+### 🌐 Connect With Me
 <p>
-  <a href="https://github.com/rakesh6299"><img src="https://img.shields.io/badge/GitHub-rakesh6299-181717?style=flat-square&logo=github" alt="github" /></a>
-  <!-- Replace the LinkedIn URL below with your real profile -->
-  <a href="https://www.linkedin.com/in/rakesh-kumar-PLACEHOLDER"><img src="https://img.shields.io/badge/LinkedIn-Rakesh%20Kumar-0A66C2?style=flat-square&logo=linkedin" alt="linkedin" /></a>
-  <!-- Replace email if you want -->
-  <a href="mailto:rakeshkrs074@gmail.com"><img src="https://img.shields.io/badge/Email-rakeshkrs074@gmail.com-D14836?style=flat-square&logo=gmail" alt="email" /></a>
+  <a href="https://github.com/rakesh6299">
+    <img src="https://img.shields.io/badge/GitHub-rakesh6299-181717?style=for-the-badge&logo=github" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rakesh-kumar-966819317/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin" />
+  </a>
+  <a href="mailto:rk1650620@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rk1650620@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="email" />
+  </a>
+  <a href="https://leetcode.com/u/053_RakeshKumar/">
+    <img src="https://img.shields.io/badge/LeetCode-053__RakeshKumar-FFA116?style=for-the-badge&logo=leetcode" alt="leetcode" />
+  </a>
 </p>
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Tech Stack
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="36" height="36"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="36" height="36"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="36" height="36"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36" height="36"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="36" height="36"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="36" height="36"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,java,git,github,postman,tailwind,vite,linux" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-> (Pin these repos in your GitHub profile to show them on top)
+> *These are my best and most complete projects. Check them out!*
 
-- **MERN_Chat_app** — Real-time chat app (Socket.IO, JWT auth, REST APIs). Live demo: `REPLACE_WITH_LINK`  
-- **Class_Connex** — Classroom collaboration & notes sharing (React + Firebase). Live demo: `REPLACE_WITH_LINK`  
-- **205122074_Rakesh-Resume** — My resume (HTML + CSS) — good to show as a portfolio page
+#### 🧠 [AI Job Portal (MERN + NLP + AI Matching)](https://github.com/rakesh6299/AI-Job-Portal)
+An AI-powered job portal that automatically matches resumes with job posts using NLP & BERT-based embeddings.  
+**Tech:** React, Node.js, Express, MongoDB, Python (NLP), Redux, Multer, Framer Motion  
+
+#### 💬 [MERN Chat App](https://github.com/rakesh6299/MERN_Chat_app)
+Real-time chat application with authentication, group chats, and Socket.IO for instant messaging.  
+**Tech:** React, Node.js, Express, MongoDB, JWT, Socket.IO  
+
+#### 🏫 [ClassConneX](https://github.com/rakesh6299/Class_Connex)
+Centralized platform for sharing study materials, notices, and assignments.  
+**Tech:** HTML, CSS, Node.js, Express, MongoDB  
+
+#### 🧬 [HealthScout – Reliable Diagnostics Finder](https://github.com/rakesh6299/Health_hunt)
+Diagnostic booking app with report management and center dashboard.  
+**Tech:** MERN Stack, Tailwind CSS, MongoDB  
+
+#### 🎬 [Movie Recommendation System](https://github.com/rakesh6299/Movie_Recommendation_System)
+Streamlit-based content filtering system using cosine similarity on TMDB dataset.  
+**Tech:** Python, Pandas, Streamlit, scikit-learn  
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh6299&show_icons=true&locale=en&layout=compact" alt="top languages" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh6299&show_icons=true&locale=en" alt="rakesh's stats" />
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rakesh6299&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh6299&layout=compact&theme=tokyonight" />
 </p>
-<br clear="both"/>
 
 ---
 
-### ✍️ How I write commits / what I value
-- Small, descriptive commits (feature: add login / fix: handle missing env var)  
-- Clean, readable code with comments where logic is complex  
-- Tests for critical pieces (start with unit tests for core functions)
+### 🧠 Competitive Programming
+- 🥇 **LeetCode Knight (2000+ rating)**  
+- 🥈 **Best Rank:** 279 (Biweekly) | 1144 (Weekly Contest 377)  
+- 💡 Solved **1000+ DSA Problems**  
+- 🧩 Active on **LeetCode**, **CodeStudio**, and **GFG**
 
 ---
 
-### 💬 Want to collaborate?
-I’m open to small open-source contributions, code reviews, or interview practice sessions.  
-Drop a message: **rakeshkrs074@gmail.com** or connect on LinkedIn (link above).
+### ✍️ My Development Principles
+- 💬 Write **meaningful commit messages** (`feat: add login API` / `fix: handle null response`)
+- 🧹 Keep code **modular and well-documented**
+- ✅ Always test core logic before deployment
+- 🚀 Aim for **readability, not just functionality**
+
+---
+
+### 🤝 Let’s Collaborate!
+I’m open to:
+- 🔧 Open-source contributions  
+- 💼 Internship or placement opportunities  
+- 💬 Tech discussions or interview practice sessions  
+
+📩 **Reach me at:** [rk1650620@gmail.com](mailto:rk1650620@gmail.com)
 
 ---
 
 <p align="center">
-  Made with ❤️ • Keep coding and keep learning.
+  💙 *Made with passion by Rakesh Kumar* 💙  
+  <br/>Keep coding. Keep learning. Keep growing. 🚀
 </p>
